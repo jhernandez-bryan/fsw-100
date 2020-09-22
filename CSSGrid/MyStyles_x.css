@@ -12,8 +12,3 @@
     font-size: 30px;
     text-align: center;   
 }
-
-.grid-header{
-    background-color:pink;
-    grid-column: 1/span2;
-}

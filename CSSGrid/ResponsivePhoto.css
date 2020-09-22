@@ -1,0 +1,15 @@
+.grid_container{
+    background-color: navy;                
+    display: grid;
+    padding: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    
+}
+
+.grid_item{
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    }
